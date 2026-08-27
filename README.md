@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Muhammad+Umer+Asad;Data+Science+%7C+AI+Engineering+%7C+MLOps;Building+in+public+via+CampusX+DSMP)](https://git.io/typing-svg)
+
+</div>
 
 <!--
 **datawithumerz/datawithumerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
