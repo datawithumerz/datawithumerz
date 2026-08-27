@@ -1,69 +1,100 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Muhammad+Umer+Asad;;Data+Science+%7C+AI+Engineering+%7C+MLOps;Building+in+public+via+CampusX+DSMP)](https://git.io/typing-svg)
-<div align="center">
+# Muhammad Umer Asad
 
-🎓 BS Software Engineering student at COMSATS University Islamabad, 
-building toward a career spanning **Data Science, AI Engineering, and MLOps**  
-🌱 Currently applying ML fundamentals through real projects via the CampusX DSMP  
-🔭 Capstone in progress: predicting house prices on the Ames Housing dataset
+### Software Engineering student building toward Data Science, Machine Learning, and AI Engineering — grounded in strong CS fundamentals.
+
+<picture>
+  <img alt="rotating focus areas" src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=460&height=35&lines=Data+Science;Machine+Learning;AI+Engineering;Software+Fundamentals#gh-dark-mode-only" />
+</picture>
+<picture>
+  <img alt="rotating focus areas" src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=0969DA&center=true&vCenter=true&width=460&height=35&lines=Data+Science;Machine+Learning;AI+Engineering;Software+Fundamentals#gh-light-mode-only" />
+</picture>
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datawithumerz/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/datawithumerz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/theumer.asad/)
+
+</div>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datawithumerz/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datawithumerz)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theumer.asad/)
+I'm a BS Software Engineering student at COMSATS University Islamabad, building a practical foundation in data science and machine learning on top of core CS fundamentals — data structures, OOP, databases, systems. The goal isn't to collect tutorials; it's to build things end-to-end, understand why they work, and let that understanding compound toward applied AI engineering.
 
-</div>
+<br>
 
-</div>
-<div align="center">
+## Currently
 
-### 🧱 CS Fundamentals
+- 🔭 **Building:** an end-to-end regression pipeline on the Kaggle *House Prices (Ames Housing)* dataset — EDA, preprocessing, and custom model implementations validated against scikit-learn baselines.
+- 🌱 **Learning:** regularized linear models (Ridge / Lasso / ElasticNet), multicollinearity diagnostics, and feature selection.
+- 🗒️ **Practicing:** algorithms and ML fundamentals implemented from first principles in a dedicated practice repository, organized by topic.
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4B8BBE?style=for-the-badge)
-![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-4B8BBE?style=for-the-badge)
+<br>
 
-### 🛠️ Tools & Languages
+## Technical Toolkit
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Languages & Core Foundations**
 
-### 📊 Data Science Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-464646?style=flat-square)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-464646?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-464646?style=flat-square)
+![Databases](https://img.shields.io/badge/Databases-464646?style=flat-square)
+![Networks](https://img.shields.io/badge/Computer%20Networks-464646?style=flat-square)
+![OS](https://img.shields.io/badge/Operating%20Systems-464646?style=flat-square)
 
-![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-2E9EF7?style=for-the-badge)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-2E9EF7?style=for-the-badge)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-2E9EF7?style=for-the-badge)
-![Feature Selection](https://img.shields.io/badge/Feature%20Selection-2E9EF7?style=for-the-badge)
+**Data & ML**
 
-</div>
-<div align="center">
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=datawithumerz&show_icons=true&theme=tokyonight&hide_border=true)
+**Tooling**
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=datawithumerz&theme=tokyonight&hide_border=true)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-</div>
+<br>
 
-<!--
-**datawithumerz/datawithumerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Selected Projects
 
-Here are some ideas to get you started:
+**[🏠 Ames Housing Price Prediction](https://github.com/datawithumerz/ames-housing-capstone)**
+End-to-end regression project on the Kaggle House Prices dataset. Covers structured EDA, right-skew correction on the target via log transformation, outlier removal grounded in price/sale-condition evidence rather than blanket thresholds, and a multicollinearity pass across correlated feature pairs (`GarageCars`/`GarageArea`, `TotalBsmtSF`/`1stFlrSF`). Includes batch and mini-batch gradient descent regressors implemented from scratch and validated against scikit-learn's `LinearRegression` for correctness.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[📓 ML Practice & Experiments](https://github.com/datawithumerz/dsmp-ml-practice)**
+An ongoing, topic-organized collection of hands-on notebooks — EDA techniques, preprocessing patterns, and core ML algorithms implemented both with scikit-learn and from first principles, used to stress-test understanding before applying concepts on real projects.
+
+<br>
+
+## GitHub Signal
+
+<table>
+<tr>
+<td>
+
+<picture><img src="https://github-readme-stats.vercel.app/api?username=datawithumerz&show_icons=true&hide_border=true&count_private=false&theme=tokyonight#gh-dark-mode-only" alt="GitHub stats" /></picture>
+<picture><img src="https://github-readme-stats.vercel.app/api?username=datawithumerz&show_icons=true&hide_border=true&count_private=false&theme=default#gh-light-mode-only" alt="GitHub stats" /></picture>
+
+</td>
+<td>
+
+<picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datawithumerz&layout=compact&hide_border=true&langs_count=6&theme=tokyonight#gh-dark-mode-only" alt="Top languages" /></picture>
+<picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datawithumerz&layout=compact&hide_border=true&langs_count=6&theme=default#gh-light-mode-only" alt="Top languages" /></picture>
+
+</td>
+</tr>
+</table>
+
+<sub>These cards are served by a shared community API and are shown as a secondary signal, not a load-bearing part of the profile — if they don't load, everything above still stands on its own.</sub>
+
+<br>
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/datawithumerz/) · [Kaggle](https://www.kaggle.com/datawithumerz) · [Instagram](https://www.instagram.com/theumer.asad/)
