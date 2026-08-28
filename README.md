@@ -78,23 +78,3 @@ An ongoing, topic-organized collection of hands-on notebooks — EDA techniques,
 
 <br>
 
-## GitHub Signal
-
-<table>
-<tr>
-<td>
-
-<picture><img src="https://github-readme-stats.vercel.app/api?username=datawithumerz&show_icons=true&hide_border=true&count_private=false&theme=tokyonight#gh-dark-mode-only" alt="GitHub stats" /></picture>
-<picture><img src="https://github-readme-stats.vercel.app/api?username=datawithumerz&show_icons=true&hide_border=true&count_private=false&theme=default#gh-light-mode-only" alt="GitHub stats" /></picture>
-
-</td>
-<td>
-
-<picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datawithumerz&layout=compact&hide_border=true&langs_count=6&theme=tokyonight#gh-dark-mode-only" alt="Top languages" /></picture>
-<picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datawithumerz&layout=compact&hide_border=true&langs_count=6&theme=default#gh-light-mode-only" alt="Top languages" /></picture>
-
-</td>
-</tr>
-</table>
-
-<sub>These cards are served by a shared community API and are shown as a secondary signal, not a load-bearing part of the profile — if they don't load, everything above still stands on its own.</sub>
