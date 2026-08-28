@@ -1,35 +1,31 @@
 <div align="center">
 
-# Muhammad Umer Asad
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Muhammad+Umer+Asad;Data+Scientist;ML+Engineer;Software+Engineering+Student" />
+  <img alt="typing intro" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Muhammad+Umer+Asad;Data+Scientist;ML+Engineer;Software+Engineering+Student" />
+</picture>
 
 ### Software Engineering student building toward Data Science, Machine Learning, and AI Engineering — grounded in strong CS fundamentals.
 
-<picture>
-  <img alt="rotating focus areas" src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=460&height=35&lines=Data+Science;Machine+Learning;AI+Engineering;Software+Fundamentals#gh-dark-mode-only" />
-</picture>
-<picture>
-  <img alt="rotating focus areas" src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=0969DA&center=true&vCenter=true&width=460&height=35&lines=Data+Science;Machine+Learning;AI+Engineering;Software+Fundamentals#gh-light-mode-only" />
-</picture>
+<br>
 
-<br><br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datawithumerz/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/datawithumerz)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/theumer.asad/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datawithumerz/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datawithumerz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theumer.asad/)
 
 </div>
 
 <br>
 
-I'm a BS Software Engineering student at COMSATS University Islamabad, building a practical foundation in data science and machine learning on top of core CS fundamentals — data structures, OOP, databases, systems. The goal isn't to collect tutorials; it's to build things end-to-end, understand why they work, and let that understanding compound toward applied AI engineering.
+I'm a BS Software Engineering student at COMSATS University Islamabad, building a practical foundation in data science and machine learning on top of core CS fundamentals — data structures, OOP, databases, systems. The goal is depth over tutorials — build things end-to-end, understand why they work, and let that compound toward applied AI engineering.
 
 <br>
 
 ## Currently
 
-- 🔭 **Building:** an end-to-end regression pipeline on the Kaggle *House Prices (Ames Housing)* dataset — EDA, preprocessing, and custom model implementations validated against scikit-learn baselines.
-- 🌱 **Learning:** regularized linear models (Ridge / Lasso / ElasticNet), multicollinearity diagnostics, and feature selection.
-- 🗒️ **Practicing:** algorithms and ML fundamentals implemented from first principles in a dedicated practice repository, organized by topic.
+- 🌱 **Learning:** applied machine learning and data science, one project and one concept at a time.
+- 🗒️ **Practicing:** algorithms and ML fundamentals from first principles, in a dedicated practice repository organized by topic.
+- 🎯 **Direction:** moving from foundational ML toward applied AI engineering.
 
 <br>
 
@@ -64,8 +60,8 @@ I'm a BS Software Engineering student at COMSATS University Islamabad, building 
 
 ## Selected Projects
 
-**[🏠 Ames Housing Price Prediction](https://github.com/datawithumerz/ames-housing-capstone)**
-End-to-end regression project on the Kaggle House Prices dataset. Covers structured EDA, right-skew correction on the target via log transformation, outlier removal grounded in price/sale-condition evidence rather than blanket thresholds, and a multicollinearity pass across correlated feature pairs (`GarageCars`/`GarageArea`, `TotalBsmtSF`/`1stFlrSF`). Includes batch and mini-batch gradient descent regressors implemented from scratch and validated against scikit-learn's `LinearRegression` for correctness.
+**[🏠 Ames Housing Price Prediction](https://github.com/datawithumerz/ames-housing-capstone)** — *Completed*
+End-to-end EDA and data preparation project on the Kaggle House Prices dataset. Covers structured EDA, right-skew correction on the target via log transformation, outlier removal grounded in price/sale-condition evidence rather than blanket thresholds, and a multicollinearity pass across correlated feature pairs (`GarageCars`/`GarageArea`, `TotalBsmtSF`/`1stFlrSF`).
 
 **[📓 ML Practice & Experiments](https://github.com/datawithumerz/dsmp-ml-practice)**
 An ongoing, topic-organized collection of hands-on notebooks — EDA techniques, preprocessing patterns, and core ML algorithms implemented both with scikit-learn and from first principles, used to stress-test understanding before applying concepts on real projects.
@@ -92,9 +88,3 @@ An ongoing, topic-organized collection of hands-on notebooks — EDA techniques,
 </table>
 
 <sub>These cards are served by a shared community API and are shown as a secondary signal, not a load-bearing part of the profile — if they don't load, everything above still stands on its own.</sub>
-
-<br>
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/datawithumerz/) · [Kaggle](https://www.kaggle.com/datawithumerz) · [Instagram](https://www.instagram.com/theumer.asad/)
