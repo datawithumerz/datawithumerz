@@ -28,42 +28,52 @@ I'm a BS Software Engineering student at COMSATS University Islamabad, building 
 - 🎯 **Direction:** moving from foundational ML toward applied AI engineering.
 
 <br>
-
 ## Technical Toolkit
-
-**Languages & Core Foundations**
-
+ 
+**Languages & Tools**
+ 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-464646?style=flat-square)
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-464646?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-464646?style=flat-square)
-![Databases](https://img.shields.io/badge/Databases-464646?style=flat-square)
-![Networks](https://img.shields.io/badge/Computer%20Networks-464646?style=flat-square)
-![OS](https://img.shields.io/badge/Operating%20Systems-464646?style=flat-square)
-
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+ 
+**Core CS Foundations**
+ 
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-6A0DAD?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-C2185B?style=flat-square)
+![Databases](https://img.shields.io/badge/Databases-00838F?style=flat-square&logo=mysql&logoColor=white)
+![Networks](https://img.shields.io/badge/Computer%20Networks-D84315?style=flat-square)
+![OS](https://img.shields.io/badge/Operating%20Systems-FCC624?style=flat-square&logo=linux&logoColor=black)
+ 
 **Data & ML**
-
+ 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
+ 
 **Tooling**
-
+ 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
+ 
 <br>
 
-## Selected Projects
 
+## Projects
+ 
 **[🏠 Ames Housing Price Prediction](https://github.com/datawithumerz/ames-housing-capstone)** — *Completed*
-End-to-end EDA and data preparation project on the Kaggle House Prices dataset. Covers structured EDA, right-skew correction on the target via log transformation, outlier removal grounded in price/sale-condition evidence rather than blanket thresholds, and a multicollinearity pass across correlated feature pairs (`GarageCars`/`GarageArea`, `TotalBsmtSF`/`1stFlrSF`).
-
-**[📓 ML Practice & Experiments](https://github.com/datawithumerz/dsmp-ml-practice)**
+`Python` `Pandas` `NumPy` `scikit-learn` `Matplotlib`
+ 
+End-to-end EDA and data preparation on the Kaggle House Prices dataset.
+- Right-skew correction on the target via log transformation
+- Outlier removal grounded in price/sale-condition evidence, not blanket thresholds
+- Multicollinearity analysis on correlated feature pairs (`GarageCars`/`GarageArea`, `TotalBsmtSF`/`1stFlrSF`)
+  
+**[📓 ML Practice & Experiments](https://github.com/datawithumerz/dsmp-ml-practice)** — *Ongoing*
+`Python` `Pandas` `NumPy` `scikit-learn`
+ 
 An ongoing, topic-organized collection of hands-on notebooks — EDA techniques, preprocessing patterns, and core ML algorithms implemented both with scikit-learn and from first principles, used to stress-test understanding before applying concepts on real projects.
 
 <br>
